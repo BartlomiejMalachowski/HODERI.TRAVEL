@@ -23,7 +23,7 @@ const Search = () => {
       </div>
       <div className='border text-center'>
         <p className='pt-2'>OTRZYMAJ 10% ZNIŻKI</p>
-        <p className='py-4'>POZOSTĄŁO TYLKO 12 GODZIŃ</p>
+        <p className='py-4'>POZOSTAŁO TYLKO 12 GODZIŃ</p>
         <p className='bg-gray-800 text-gray-200 py-2'>ZAREZERWUJ TERAZ</p>
       </div>
       <form className='w-full'>
